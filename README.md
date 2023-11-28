@@ -18,5 +18,5 @@ Este repositorio actúa como un recurso educativo y práctico para desarrollador
 
 ## Nota
 
-Se recomienda consultar la [documentación oficial de Oraclize](URL_DOCUMENTACION_ORACLIZE) para obtener información detallada sobre su uso, configuración y casos de uso avanzados.
+Se recomienda consultar la [documentación oficial de Oraclize](https://classroom.google.com/u/0/c/NjE2OTIzMjQ1Nzk2/a/NjE2OTIzMjQ1ODY3/details) para obtener información detallada sobre su uso, configuración y casos de uso avanzados.
 
